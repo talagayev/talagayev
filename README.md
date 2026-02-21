@@ -22,17 +22,17 @@ Here is the list of some open-source projects I am involved with and a couple of
 <p align="center">
   <a href="https://github.com/wolberlab/OpenMMDL" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/wolberlab/OpenMMDL/main/openmmdl/openmmdl_setup/static/OpenMMDL_logo_2.png"
-         alt="OpenMMDL" width="400" style="display:block;" />
+         alt="OpenMMDL" width="300" style="display:block;" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/MDAnalysis/mdanalysis/" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/MDAnalysis/branding/main/logos/rastered/mdanalysis-logo_transparent%40300ppi.png"
-         alt="MDAnalysis" width="300" style="display:block;" />
+         alt="MDAnalysis" width="250" style="display:block;" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/OpenFreeEnergy/openfe" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/OpenFreeEnergy/openfe/main/docs/_static/OFE-color-icon.svg"
-         alt="OpenFE" width="140" style="display:block;" />
+         alt="OpenFE" width="120" style="display:block;" />
   </a>
 </p>
 
