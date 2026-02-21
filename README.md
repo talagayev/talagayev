@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Valerij and I am a pharmacist, who during his PhD started getting more involved with coding and ended up becoming an cheminformatician, who still tries to hone the software development skills. While I started my journey into coding on my own and was learning by myself during my first coding projects, a lot of knowledge was gained through open-source projects and interacting with different software developers from the computational chemistry open-source community, which started with me participating in the [Google Summer of Code] (https://summerofcode.withgoogle.com/). There I was selected to be a contributor for [MDAnalysis Google Summer of Code 2024] (https://www.mdanalysis.org/2024/05/27/gsoc-outreachy-students/). Through this I was able to learn from more experienced software developers and from that moment I try to continue contributing to various open-source projects.
+My name is Valerij and I am a pharmacist, who during his PhD started getting more involved with coding and ended up becoming an cheminformatician, who still tries to hone the software development skills. While I started my journey into coding on my own and was learning by myself during my first coding projects, a lot of knowledge was gained through open-source projects and interacting with different software developers from the computational chemistry open-source community, which started with me participating in the [Google Summer of Code](https://summerofcode.withgoogle.com/). There I was selected to be a contributor for [MDAnalysis Google Summer of Code 2024](https://www.mdanalysis.org/2024/05/27/gsoc-outreachy-students/). Through this I was able to learn from more experienced software developers and from that moment I try to continue contributing to various open-source projects.
 
 Here is the list of some open-source projects I am involved with and a couple of my projects:
 
@@ -26,7 +26,7 @@ Here is the list of some open-source projects I am involved with and a couple of
          width="250" />
   </a>
 </p>
-- [**OpenMMDL**] (https://github.com/wolberlab/OpenMMDL) - Interface to OpenMM for easy setup of molecular dynamic simulations of protein-ligand complexes. ➝ *Main developer and maintainer*  
+- [**OpenMMDL**](https://github.com/wolberlab/OpenMMDL) - Interface to OpenMM for easy setup of molecular dynamic simulations of protein-ligand complexes. ➝ *Main developer and maintainer*  
 <img ... style="margin-right: 8px; vertical-align: middle;" />
 <p align="center">
   <a href="https://github.com/MDAnalysis/mdanalysis/">
@@ -35,9 +35,9 @@ Here is the list of some open-source projects I am involved with and a couple of
          width="250" />
   </a>
 </p>
-- [**MDAnalysis**] (https://github.com/MDAnalysis/mdanalysis/) - MDAnalysis is a Python library to analyze molecular dynamics simulations. ➝ *Contributor & Google Summer of Code Mentor*
+- [**MDAnalysis**](https://github.com/MDAnalysis/mdanalysis/) - MDAnalysis is a Python library to analyze molecular dynamics simulations. ➝ *Contributor & Google Summer of Code Mentor*
 <img ... style="margin-right: 8px; vertical-align: middle;" />
-- [**ProLIF**] (https://github.com/chemosim-lab/ProLIF) - Interaction Fingerprints for protein-ligand complexes and more. ➝ *Contributor & Collaborator: implementation of water-bridge interactions*
+- [**ProLIF**](https://github.com/chemosim-lab/ProLIF) - Interaction Fingerprints for protein-ligand complexes and more. ➝ *Contributor & Collaborator: implementation of water-bridge interactions*
 <img ... style="margin-right: 8px; vertical-align: middle;" />
 <p align="center">
   <a href="https://github.com/OpenFreeEnergy/openfe">
@@ -46,7 +46,7 @@ Here is the list of some open-source projects I am involved with and a couple of
          width="250" />
   </a>
 </p>
-- [**OpenFE**] (https://github.com/OpenFreeEnergy/openfe) - The Open Free Energy toolkit. ➝ *Collaborator: [Implementation of analysis features] (https://github.com/OpenFreeEnergy/openfe_analysis)*
+- [**OpenFE**](https://github.com/OpenFreeEnergy/openfe) - The Open Free Energy toolkit. ➝ *Collaborator: [Implementation of analysis features] (https://github.com/OpenFreeEnergy/openfe_analysis)*
 <img ... style="margin-right: 8px; vertical-align: middle;" />
 <p align="center">
   <a href="https://github.com/talagayev/MDonatello">
@@ -55,4 +55,4 @@ Here is the list of some open-source projects I am involved with and a couple of
          width="250" />
   </a>
 </p>
-- [**MDonatello**] (https://github.com/talagayev/MDonatello) - 2D small molecule visualization for MDAnalysis. ➝ *Developer & Maintainer*
+- [**MDonatello**](https://github.com/talagayev/MDonatello) - 2D small molecule visualization for MDAnalysis. ➝ *Developer & Maintainer*
