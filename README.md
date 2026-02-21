@@ -36,7 +36,7 @@ Here is the list of some open-source projects I am involved with and a couple of
   </a>
 </p>
 
-- [**OpenMMDL**](https://github.com/wolberlab/OpenMMDL) - Interface to OpenMM for easy setup of molecular dynamic simulations of protein-ligand complexes. ➝ *Main developer*
+- [**OpenMMDL**](https://github.com/wolberlab/OpenMMDL) - Interface to OpenMM for setup of molecular dynamic simulations of protein-ligand complexes. ➝ *Main developer*
 
 - [**MDAnalysis**](https://github.com/MDAnalysis/mdanalysis/) - MDAnalysis is a library to analyze molecular dynamics simulations. ➝ *Contributor & [Google Summer of Code Mentor](https://github.com/MDAnalysis/mdanalysis/wiki/GSoC-2026-Project-Ideas)*
 
