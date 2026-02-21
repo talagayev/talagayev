@@ -38,9 +38,9 @@ Here is the list of some open-source projects I am involved with and a couple of
 
 - [**OpenMMDL**](https://github.com/wolberlab/OpenMMDL) - Interface to OpenMM for easy setup of molecular dynamic simulations of protein-ligand complexes. ➝ *Main developer*
 
-- [**MDAnalysis**](https://github.com/MDAnalysis/mdanalysis/) - MDAnalysis is a Python library to analyze molecular dynamics simulations. ➝ *Contributor & [Google Summer of Code Mentor](https://github.com/MDAnalysis/mdanalysis/wiki/GSoC-2026-Project-Ideas)*
+- [**MDAnalysis**](https://github.com/MDAnalysis/mdanalysis/) - MDAnalysis is a library to analyze molecular dynamics simulations. ➝ *Contributor & [Google Summer of Code Mentor](https://github.com/MDAnalysis/mdanalysis/wiki/GSoC-2026-Project-Ideas)*
 
-- [**ProLIF**](https://github.com/chemosim-lab/ProLIF) - Interaction Fingerprints for protein-ligand complexes. ➝ *Contributor & Collaborator: implementation of water-bridge interactions*
+- [**ProLIF**](https://github.com/chemosim-lab/ProLIF) - Interaction Fingerprints for protein-ligand complexes. ➝ *Contributor & Collaborator: water-bridge interaction implementation*
 
 - [**OpenFE**](https://github.com/OpenFreeEnergy/openfe) - The Open Free Energy toolkit. ➝ *Collaborator: [Implementation of analysis features](https://github.com/OpenFreeEnergy/openfe_analysis)*
 
