@@ -20,45 +20,28 @@ My name is Valerij and I am a pharmacist, who during his PhD started getting mor
 Here is the list of some open-source projects I am involved with and a couple of my projects:
 
 <p align="center">
-  <a href="https://github.com/wolberlab/OpenMMDL">
+  <a href="https://github.com/wolberlab/OpenMMDL" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/wolberlab/OpenMMDL/main/openmmdl/openmmdl_setup/static/OpenMMDL_logo_2.png"
-         alt="OpenMMDL logo"
-         width="250" />
+         alt="OpenMMDL" width="400" style="display:block;" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/MDAnalysis/mdanalysis/" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/MDAnalysis/branding/main/logos/rastered/mdanalysis-logo_transparent%40300ppi.png"
+         alt="MDAnalysis" width="300" style="display:block;" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/OpenFreeEnergy/openfe" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/OpenFreeEnergy/openfe/main/docs/_static/OFE-color-icon.svg"
+         alt="OpenFE" width="140" style="display:block;" />
   </a>
 </p>
 
 - [**OpenMMDL**](https://github.com/wolberlab/OpenMMDL) - Interface to OpenMM for easy setup of molecular dynamic simulations of protein-ligand complexes. ➝ *Main developer*
 
-
-<p align="center">
-  <a href="https://github.com/MDAnalysis/mdanalysis/">
-    <img src="https://github.com/MDAnalysis/branding/blob/main/logos/rastered/mdanalysis-logo_transparent%40300ppi.png"
-         alt="MDAnalysis logo"
-         width="250" />
-  </a>
-</p>
-
 - [**MDAnalysis**](https://github.com/MDAnalysis/mdanalysis/) - MDAnalysis is a Python library to analyze molecular dynamics simulations. ➝ *Contributor & Google Summer of Code Mentor*
-
 
 - [**ProLIF**](https://github.com/chemosim-lab/ProLIF) - Interaction Fingerprints for protein-ligand complexes. ➝ *Contributor & Collaborator: implementation of water-bridge interactions*
 
-<p align="center">
-  <a href="https://github.com/OpenFreeEnergy/openfe">
-    <img src="https://github.com/OpenFreeEnergy/openfe/blob/main/docs/_static/OFE-color-icon.svg"
-         alt="OpenFE logo"
-         width="200" />
-  </a>
-</p>
-
 - [**OpenFE**](https://github.com/OpenFreeEnergy/openfe) - The Open Free Energy toolkit. ➝ *Collaborator: [Implementation of analysis features](https://github.com/OpenFreeEnergy/openfe_analysis)*
-
-<p align="center">
-  <a href="https://github.com/talagayev/MDonatello">
-    <img src="https://github.com/MDAnalysis/MDAKits/blob/main/docs/source/_static/logos/mdakits-logo-1563x1563.png"
-         alt="MDAKits logo"
-         width="250" />
-  </a>
-</p>
 
 - [**MDonatello**](https://github.com/talagayev/MDonatello) - 2D small molecule visualization for MDAnalysis. ➝ *Developer & Maintainer*
